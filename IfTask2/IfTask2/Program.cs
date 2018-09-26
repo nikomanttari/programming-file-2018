@@ -6,7 +6,7 @@ namespace IfTask2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ohjelma selvittää onko luku pariton vai parillinen ja negatiivinen, positiivinen vai 0");
+            Console.WriteLine("ohjelma selvittää onko luku pariton vai parillinen");
             Console.Write("syötä numero: ");
             string userInput = Console.ReadLine();
             int number =  0;
