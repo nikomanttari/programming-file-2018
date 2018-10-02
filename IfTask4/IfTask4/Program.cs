@@ -39,6 +39,7 @@ namespace IfTask4
                         Console.Write($"{a}, {c} ja {b} ");
                     else
                         Console.Write($"{a}, {b} ja {c} ");
+
                 }
             }
 

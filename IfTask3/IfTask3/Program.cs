@@ -18,7 +18,7 @@ namespace IfTask3
                     Console.WriteLine($"Numero {number} on negatiivinen");
                 else
                     Console.WriteLine($"Numero {number} on positiivinen");
-                if (number == 0)
+                if (number % 2 == 0)
                     Console.WriteLine($"Numero {number} on parillinen");
                 else
                     Console.WriteLine($"Numero {number} on pariton");
