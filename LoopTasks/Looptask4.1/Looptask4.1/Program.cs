@@ -14,7 +14,7 @@ namespace Looptask4._1
                 for (int i = 0; i < 10; i++)
                 {
                     
-                    Console.WriteLine($"{i+1})  {Math.Sqrt(i+1)}");
+                    Console.WriteLine($"{i+1}  {Math.Sqrt(i+1)}");
                 }
             }
         }
